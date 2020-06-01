@@ -14,7 +14,7 @@ function preload() {
   bambooBodyImg = loadImage('picture/stem1.png');
   bambooPeakImg = loadImage('picture/stem1.png');
   pandaImg = loadImage('picture/p4.png');
-  backgroundImg = loadImage('picture/bg6.png');
+  backgroundImg = loadImage('picture/bg6.jpg');
 }
 
 function setup()
